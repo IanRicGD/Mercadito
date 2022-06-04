@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mercadito</string>
+    <string name="base_url">https://www.serverbpw.com/</string>
+    <string name="complement_url">cm/2022-2/products.php</string>
+    <string name="conexion_fallida">No hay conexión</string>
+    <string name="respuesta_servidor">Respuesta del servidor: %s</string>
+    <string name="datos_logecat">Datos: %s</string>
+    <string name="mensaje_error">Error</string>
+    <string name="logecat">LOGS</string>
+    <string name="proveedor">Proveedor: %s</string>
+    <string name="precio">$%s</string>
+    <string name="precio_delivery">Precio Delivery: %s</string>
+    <string name="precio_delivery_gratis">Entrega gratuita</string>
+    <string name="img_producto">imagen del producto</string>
+    <string name="separador">separador</string>
+    <string name="img_entrega">imagen repartidor</string>
+    <string name="img_pricetag">imagen precio</string>
+    <string name="creador">Creador: Ian Ricardo García Delgado</string>
+    <string name="version">Version 1.0</string>
+</resources>
