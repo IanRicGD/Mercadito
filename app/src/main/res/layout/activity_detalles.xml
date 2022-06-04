@@ -31,12 +31,14 @@
 
                 <TextView
                     android:id="@+id/tvNameP"
-                    android:layout_width="392dp"
-                    android:layout_height="124dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:background="@drawable/label3"
                     android:fontFamily="@font/oswald"
-                    android:gravity="center_horizontal"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:paddingTop="10dp"
                     android:paddingBottom="10dp"
-                    android:textColor="@color/bluepk2"
+                    android:textColor="@color/title_product"
                     android:textSize="34sp" />
 
                 <ImageView
